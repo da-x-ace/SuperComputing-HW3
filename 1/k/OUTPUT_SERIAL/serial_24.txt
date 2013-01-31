@@ -1,0 +1,4 @@
+ begin (wall):            1334525550
+        begin (CPU):             230000
+        elapsed wall clock time: 1
+        elapsed CPU time:        0.710000

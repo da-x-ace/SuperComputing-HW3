@@ -1,0 +1,10 @@
+######################################
+### Here's the analysis based 	   ###
+### on the results received	   ###
+######################################
+
+It is seen that the output which we receive in case
+of the diagonal - by - diagonal implementation
+is better time complexity than the row-by-row implementation
+both in cases of serial as well as parallel.
+

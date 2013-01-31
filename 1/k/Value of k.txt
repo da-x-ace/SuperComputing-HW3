@@ -1,0 +1,15 @@
+As we need to calculate speed up
+
+for k = 21, I'm getting
+
+Speed UP = 3.5.
+
+for k = 24
+
+Spped UP = 4.17
+
+for k = 23
+
+Speed Up = 4.3
+
+Therefore, K = 23.
